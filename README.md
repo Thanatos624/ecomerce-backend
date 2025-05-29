@@ -128,13 +128,7 @@ ecommercebackend/
 
 ## 🖼️ Screenshot
 
-Place this image in the README using:
 
-```markdown
-![Admin Permissions](screenshots/admin-permissions.png)
-```
-
-Or display it directly here:
 
 ![image](https://github.com/user-attachments/assets/124356e3-cafd-45b9-bce1-c033d01061a6)
 
